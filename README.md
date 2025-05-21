@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack WebDevelopment & DataScience Machine Learning
 - 🌱 I’m currently learning core programming skill
 - 💞️ I’m looking to collaborate on web-development & DataScience 
-- 📫 my email is eshantbagwe2000@gmail.con
+- 📫 my email is bagweeshant05@gmail.con
 
 <!---
 EshantBagwe/EshantBagwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
