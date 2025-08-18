@@ -17,13 +17,10 @@
 </p>
 
 ### 📊 Analytics & Visualization
-### 📊 Analytics & Visualization
-<p align="left">  
-  <img alt="Microsoft Excel" title="Microsoft Excel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/> 
-
-  <img alt="Power BI" title="Power BI" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Desktop.svg" width="40" height="40"/>
-
-  <img alt="Tableau" title="Tableau" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40"/>
+<p align="left">
+  <img alt="Microsoft Excel" title="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="24" />
+  <img alt="Power BI" title="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=111111" height="24" />
+  <img alt="Tableau" title="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="24" />
 </p>
 
 ### 🛠️ Tools & Platforms
