@@ -17,9 +17,12 @@
 </p>
 
 ### 📊 Analytics & Visualization
-<p align="left">
-  <img alt="Microsoft Excel" title="Microsoft Excel" src="https://cdn.simpleicons.org/microsoftexcel/217346/ffffff" width="40" height="40"/>
-  <img alt="Power BI" title="Power BI" src="https://cdn.simpleicons.org/powerbi/F2C811/111111" width="40" height="40"/>
+### 📊 Analytics & Visualization
+<p align="left">  
+  <img alt="Microsoft Excel" title="Microsoft Excel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/> 
+
+  <img alt="Power BI" title="Power BI" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Desktop.svg" width="40" height="40"/>
+
   <img alt="Tableau" title="Tableau" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40"/>
 </p>
 
