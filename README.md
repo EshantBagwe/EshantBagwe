@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @EshantBagwe
-- 👀 I’m interested in Fullstack WebDevelopment & DataScience Machine Learning
-- 🌱 I’m currently learning core programming skill
-- 💞️ I’m looking to collaborate on web-development & DataScience 
-- 📫 my email is bagweeshant05@gmail.con
-
-<!---
-EshantBagwe/EshantBagwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Eshant Bagwe  
+📊 Entry-Level Data Analyst | Excel · SQL (MySQL) · Power BI · Python  
+💻 Hands-on projects in Data Analysis, Dashboards, and Reporting Automation  
+🌱 Currently improving core programming skills (Python, SQL, Web Development)  
+🤝 Open to collaborate on Data Analytics, Python-MySQL apps, and Web Dev projects  
+📂 Portfolio of projects: Dashboards, SQL queries, Python-MySQL apps (see pinned repos)  
+📫 Reach me at: bagweeshant05@gmail.com  
+🔗 LinkedIn: linkedin.com/in/eshantbagwe  
