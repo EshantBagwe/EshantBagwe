@@ -6,7 +6,7 @@
 📂 Portfolio of projects: Dashboards, SQL queries, Python-MySQL apps (see pinned repos)  
 📫 Reach me at: bagweeshant05@gmail.com  
 🔗 LinkedIn: linkedin.com/in/eshantbagwe  
-## 💻 Tech Stack
+## Tech Stack
 
 ### 🖥️ Programming & Data
 <p align="left">
