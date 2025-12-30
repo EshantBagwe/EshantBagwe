@@ -5,7 +5,7 @@
 🤝 Open to collaborate on Data Analytics, Python-MySQL apps, and Web Dev projects  
 📂 Portfolio of projects: Dashboards, SQL queries, Python-MySQL apps (see pinned repos)  
 📫 Reach me at: bagweeshant05@gmail.com  
-🔗 LinkedIn: linkedin.com/in/eshantbagwe  
+🔗 LinkedIn: linkedin.com/in/EshantBagwe  
 ## Tech Stack
 
 ### 🖥️ Programming & Data
