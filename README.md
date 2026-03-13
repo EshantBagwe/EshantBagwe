@@ -8,12 +8,10 @@
 🔗 LinkedIn: linkedin.com/in/EshantBagwe  
 ## Tech Stack
 
-### 🖥️ Programming & Data
+### 🖥️ Programming 
 <p align="left">
   <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img alt="Pandas" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img alt="NumPy" title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img alt="SQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
 ### 📊 Analytics & Visualization
